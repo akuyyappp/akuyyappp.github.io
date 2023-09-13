@@ -628,3 +628,6 @@ risecodes.com,63832beef8189a00015cb6d3,RESELLER
 google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
 datawrkz.com, mwpmcm16, DIRECT
 facebook.com, 107471574632442, DIRECT, c3e20eee3f780d68
+
+
+google.com, pub-6967350336870705, DIRECT, f08c47fec0942fa0
